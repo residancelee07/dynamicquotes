@@ -1,0 +1,23 @@
+{
+  "name": "dynamicquotes",
+  "version": "1.0.0",
+  "description": "Dynamic Quotes Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/residancelee07/dynamicquotes.git"
+  },
+  "author": "Sanket Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/residancelee07/dynamicquotes/issues"
+  },
+  "homepage": "https://github.com/residancelee07/dynamicquotes#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
